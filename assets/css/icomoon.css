@@ -1441,3 +1441,7 @@
 .icon-world:before {
   content: "\ea9b";
 }
+
+.icon-whatsapp:before {
+  content: "\e800"; 
+}
